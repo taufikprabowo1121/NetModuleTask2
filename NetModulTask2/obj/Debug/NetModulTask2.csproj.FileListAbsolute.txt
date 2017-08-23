@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask2\NetModulTask2\bin\Debug\NetModulTask2.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask2\NetModulTask2\bin\Debug\NetModulTask2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask2\NetModulTask2\bin\Debug\NetModulTask2.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask2\NetModulTask2\obj\Debug\NetModulTask2.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask2\NetModulTask2\obj\Debug\NetModulTask2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask2\NetModulTask2\obj\Debug\NetModulTask2.pdb
